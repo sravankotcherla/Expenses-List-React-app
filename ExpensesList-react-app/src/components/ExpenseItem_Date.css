@@ -1,0 +1,12 @@
+.expense-Date{
+    margin: 4px;
+    width: 100px;
+    height: 80px;
+    font-size: 1rem;
+    color: white;
+    display: inline-block;
+    border: 2px solid black;
+    border-radius: 8px;
+    justify-items: center;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+.expense-Item-Container{
+    display: flex;
+    flex: wrap;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(85, 84, 84);
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.expense-Description{
+    color: white;
+    flex-grow: 1;
+    justify-content: flex-start;
+    margin-left: 8px;
+}
+.expense-Amount{
+    font-size: 4 em;
+    color: white;
+    background-color: rgb(64, 32, 64);
+    border: white 2px solid;
+    border-radius: 10px;
+    padding: 8px;
+    margin-right: 8px;
+    text-align: center;
+}
