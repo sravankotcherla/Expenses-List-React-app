@@ -1,6 +1,11 @@
 .expenses{
     margin: auto auto;
-    width: 50%;
+    width: 50rem;
     background-color: rgb(27, 25, 25);
     padding:8px;
+}
+
+.expenses-content{
+    color: white;
+    text-align: center;
 }

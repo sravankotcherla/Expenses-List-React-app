@@ -1,0 +1,8 @@
+.tileContainer{
+    display: flex;
+    height: 200px;
+    background-color: pink;
+    border-radius: 12px;
+    align-content: center;
+    justify-content: space-around;
+}
